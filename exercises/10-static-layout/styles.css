@@ -1,4 +1,17 @@
 /* your code here */
+.wrapper {
+	padding: 20px;
+}
+
+nav {
+	float: left;
+	width: 20%;
+}
+
+section {
+	float: right;
+	width: 79%;
+}
 
 /**************************************
 DON'T CHANGE ANYTHING AFTER THIS LINE
